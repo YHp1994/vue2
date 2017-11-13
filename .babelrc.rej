@@ -1,0 +1,7 @@
+diff a/.babelrc b/.babelrc	(rejected hunks)
+@@ -0,0 +1,5 @@
++{
++  "presets": [
++    ["env", { "modules": false }]
++  ]
++}
